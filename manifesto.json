@@ -17,5 +17,5 @@
   "background_color": "#009688",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/index.html"
+  "start_url": "/sketch/index.html"
 }
